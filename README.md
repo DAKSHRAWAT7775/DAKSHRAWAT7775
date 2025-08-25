@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Daksh Rawat</h1>
-<h3 align="center">🤖 Data Scientist in the Making | 📊 AI & Machine Learning Explorer | 💡 Turning Data into Insights</h3>
-
+<h3 align="center">Aspiring Data Scientist | AI & Machine Learning Enthusiast | Passionate About Data-Driven Insights</h3>
 ---
 
 <p align="center">
