@@ -92,7 +92,6 @@ Agile · Scrum · Strategic Decision-Making · Collaboration
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-rawat22"><img src="https://img.shields.io/badge/LinkedIn-Daksh%20Rawat-blue?logo=linkedin" /></a>
-  <a href="mailto:dakshrawat7775@gmail.com"><img src="https://img.shields.io/badge/Email-dakshrawat7775%40gmail.com-red?logo=gmail" /></a>
   <a href="https://github.com/DAKSHRAWAT7775"><img src="https://img.shields.io/badge/GitHub-DAKSHRAWAT7775-black?logo=github" /></a>
 </p>
 
