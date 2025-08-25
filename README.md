@@ -38,10 +38,6 @@ Agile · Scrum · Strategic Decision-Making · Collaboration
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAKSHRAWAT7775&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAKSHRAWAT7775&theme=radical" height="160" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAKSHRAWAT7775&layout=compact&theme=radical" height="150"/>
