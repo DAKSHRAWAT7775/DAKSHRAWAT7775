@@ -11,7 +11,7 @@
 
 ## 🧑‍🎓 Education
 🎓 **Bennett University**, Greater Noida, Uttar Pradesh  
-*B.Tech in Computer Science (Data Science)* (2022–2026) | GPA: **8.66/10**  
+*B.Tech in Computer Science (Data Science)* (2022–2026) | GPA: **8.79/10**  
 
 📘 **Core Coursework:**  
 `Deep Learning` · `NLP` · `Big Data Analytics` · `Business Intelligence` · `Predictive Modeling`
