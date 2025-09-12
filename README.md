@@ -50,7 +50,7 @@ Agile · Scrum · Strategic Decision-Making · Collaboration
 | 🧠 Project | 🔍 Focus | 🛠️ Tech Stack | 🔗 Repo |
 |-----------|----------|---------------|--------|
 | **SkillScan** | Resume analysis with DistilBERT + LLMs for feedback | `Python`, `Ollama`, `Transformers`, `NLP` | [🔗 Link](https://github.com/DAKSHRAWAT7775/SkillScan) |
-| **Pitch Perfect** | ML-powered cricket win predictor (>80% accuracy) | `Scikit-learn`, `Streamlit`, `Python` | [🔗 Link](https://github.com/DAKSHRAWAT7775/Pitch-Perfect) |
+| **TrafficVision** | Real-time vehicle detection & counting with YOLOv8 | `YOLOv8`, `OpenCV`, `Python`, `Colab` | [🔗 Link](https://github.com/DAKSHRAWAT7775/TrafficVision) |
 | **Regional Sales Analysis** | Power BI dashboards for revenue insights | `Power BI`, `DAX`, `ETL` | [🔗 Link](https://github.com/DAKSHRAWAT7775/Regional-Sales-Performance-Analysis) |
 | **HouseIntel** | House price prediction web app (R² = 0.87) | `Flask`, `Scikit-learn`, `HTML/CSS/JS` | [🔗 Link](https://github.com/DAKSHRAWAT7775/HouseIntel) |
 
