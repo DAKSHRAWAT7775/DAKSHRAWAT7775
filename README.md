@@ -3,14 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daksh Rawat</h1>
 <h3 align="center">Associate Software Engineer Intern | Backend Developer | AI & Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/DAKSHRAWAT7775">
-    <img src="https://img.shields.io/github/followers/DAKSHRAWAT7775?label=Followers&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/daksh-rawat22">
-    <img src="https://img.shields.io/badge/LinkedIn-Daksh%20Rawat-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+
 
 ---
 
@@ -163,14 +156,7 @@ https://github.com/DAKSHRAWAT7775/HouseIntel
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAKSHRAWAT7775&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAKSHRAWAT7775&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
 
 ## 🌱 Currently Learning
 
