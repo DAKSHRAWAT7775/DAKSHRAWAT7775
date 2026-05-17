@@ -1,100 +1,199 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Daksh Rawat</h1>
-<h3 align="center">Aspiring Data Scientist | AI & Machine Learning Enthusiast | Passionate About Data-Driven Insights</h3>
----
+<!-- ========================= PROFILE HEADER ========================= -->
+
+<h1 align="center">Hi 👋, I'm Daksh Rawat</h1>
+<h3 align="center">Associate Software Engineer Intern | Backend Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="350" alt="AI Animation">
+  <a href="https://github.com/DAKSHRAWAT7775">
+    <img src="https://img.shields.io/github/followers/DAKSHRAWAT7775?label=Followers&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/daksh-rawat22">
+    <img src="https://img.shields.io/badge/LinkedIn-Daksh%20Rawat-blue?logo=linkedin&style=flat-square" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍🎓 Education
-🎓 **Bennett University**, Greater Noida, Uttar Pradesh  
-*B.Tech in Computer Science (Data Science)* (2022–2026) | GPA: **8.79/10**  
+## 🚀 About Me
 
-📘 **Core Coursework:**  
-`Deep Learning` · `NLP` · `Big Data Analytics` · `Business Intelligence` · `Predictive Modeling`
+- 💼 Currently working as an **Associate Software Engineer Intern**
+- ⚙️ Building scalable backend systems, payment microservices & APIs
+- 🤖 Passionate about AI/ML, LLM Applications, Backend Engineering & Data Systems
+- 📚 Interested in:
+  - Payment Infrastructure
+  - AI-powered SaaS
+  - Microservices Architecture
+  - Intelligent Automation Systems
+  - Scalable Backend Design
 
 ---
 
-## 🔬 Core Skills (AI & Data Science Focus)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,git,github,aws,html,css,js" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <br>
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,sql" />
 </p>
 
-**Libraries & Tools:**  
-`Pandas` · `NumPy` · `Scikit-learn` · `Transformers (Hugging Face)` · `Streamlit` · `Flask` · `NLTK` · `Ollama`  
-
-**Visualization & BI:**  
-`Power BI` · `Matplotlib` · `Seaborn` · `Excel`  
-
-**Other Skills:**  
-Agile · Scrum · Strategic Decision-Making · Collaboration  
-
----
-
-## 📊 GitHub Analytics
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAKSHRAWAT7775&layout=compact&theme=radical" height="150"/>
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
 </p>
 
----
-
-## 💼 Highlighted Projects
-
-| 🧠 Project | 🔍 Focus | 🛠️ Tech Stack | 🔗 Repo |
-|-----------|----------|---------------|--------|
-| **SkillScan** | Resume analysis with DistilBERT + LLMs for feedback | `Python`, `Ollama`, `Transformers`, `NLP` | [🔗 Link](https://github.com/DAKSHRAWAT7775/SkillScan) |
-| **TrafficVision** | Real-time vehicle detection & counting with YOLOv8 | `YOLOv8`, `OpenCV`, `Python`, `Colab` | [🔗 Link](https://github.com/DAKSHRAWAT7775/TrafficVision) |
-| **Regional Sales Analysis** | Power BI dashboards for revenue insights | `Power BI`, `DAX`, `ETL` | [🔗 Link](https://github.com/DAKSHRAWAT7775/Regional-Sales-Performance-Analysis) |
-| **HouseIntel** | House price prediction web app (R² = 0.87) | `Flask`, `Scikit-learn`, `HTML/CSS/JS` | [🔗 Link](https://github.com/DAKSHRAWAT7775/HouseIntel) |
+**Concepts & Tools:**  
+`REST APIs` • `Swagger` • `Postman` • `Microservices`
 
 ---
 
-## 🧪 Research & Publications
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-- 🫁 **Lung Cancer Risk Prediction using ML** – OPJU OTCON 2025  
-- ⚡ **EV Recommendation Systems with Reinforcement Learning** – IEEE Conference, ABES College 2024  
-
----
-
-## 🏅 Certifications
-
-🎓 **Fundamentals of Deep Learning** – NVIDIA (2025)  
-🎓 **Natural Language Processing** – DeepLearning.AI (2025)  
-🎓 **IBM Machine Learning Professional Certificate** – IBM (2024)  
-🎓 **Foundations: Data, Data Everywhere** – Google (2023)  
+**Database Knowledge:**  
+`PostgreSQL Internals` • `MVCC` • `VACUUM` • `Indexing` • `Relational Constraints`
 
 ---
 
-## 📈 Fun Data Viz
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
+
+`DBeaver` • `Docker` • `Git`
+
+---
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Libraries & Frameworks:**  
+`Scikit-learn` • `Hugging Face` • `DistilBERT` • `YOLOv8` • `OpenCV` • `Ollama`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 SkillScan  
+📄 AI-powered resume analysis platform using NLP & LLMs
+
+**Tech Stack:**  
+`Python` • `DistilBERT` • `Ollama` • `Transformers`
+
+#### Features:
+- Resume classification into **24 job categories**
+- Personalized resume feedback
+- Missing skill detection
+- Real-time role alignment suggestions
+
+🔗 Repository:  
+https://github.com/DAKSHRAWAT7775/SkillScan
+
+---
+
+### 🔹 TrafficVision  
+🚦 Real-time traffic vehicle detection and counting system
+
+**Tech Stack:**  
+`YOLOv8` • `OpenCV` • `Python`
+
+#### Features:
+- Real-time vehicle detection
+- Vehicle counting system
+- Multi-object tracking
+- Detection of:
+  - Cars
+  - Trucks
+  - Buses
+  - Motorcycles
+
+🔗 Repository:  
+https://github.com/DAKSHRAWAT7775/TrafficVision
+
+---
+
+### 🔹 HouseIntel  
+🏠 Machine Learning-powered house price prediction web app
+
+**Tech Stack:**  
+`Flask` • `Scikit-learn` • `HTML/CSS/JS`
+
+#### Features:
+- House price prediction using:
+  - Location
+  - BHK
+  - Bathrooms
+- Interactive UI
+- Flask backend integration
+
+📈 Achieved **R² Score: 0.87**
+
+🔗 Repository:  
+https://github.com/DAKSHRAWAT7775/HouseIntel
+
+---
+
+## 📚 Research & Publications
+
+### 🫁 Integrative Analysis of Contributing Factors and Predictive Modeling for Lung Cancer Using Machine Learning Techniques
+- Presented at **OTCON**
+- Published in **IEEE Xplore**
+
+---
+
+### ⚡ Enhancing Capabilities of Recommendation System for Electric Vehicles Using Reinforcement Learning
+- Presented at **IEEE Conference**
+- Published in **IEEE Xplore**
+
+---
+
+## 🏆 Certifications
+
+- 🎓 Fundamentals of Deep Learning — NVIDIA (2025)
+- 🎓 Natural Language Processing with Classification and Vector Spaces — DeepLearning.AI (2025)
+- 🎓 IBM Machine Learning Professional Certificate — IBM (2024)
+- 🎓 Foundations: Data, Data Everywhere — Google (2023)
+- 🎓 Software Engineering — Infosys (2024)
+
+---
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Data Viz">
+  <img src="https://github-readme-stats.vercel.app/api?username=DAKSHRAWAT7775&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAKSHRAWAT7775&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📌 **Generative AI** – Prompt Engineering & LLM Applications  
-- 📌 **Apache Spark** – Big Data for Analytics  
-- 📌 **MLOps** – MLFlow, Docker, Model Deployment  
+- Apache Spark
+- MLOps & Model Deployment
+- System Design
+- AI Agents & LLM Applications
+- Scalable Distributed Systems
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daksh-rawat22"><img src="https://img.shields.io/badge/LinkedIn-Daksh%20Rawat-blue?logo=linkedin" /></a>
-  <a href="https://github.com/DAKSHRAWAT7775"><img src="https://img.shields.io/badge/GitHub-DAKSHRAWAT7775-black?logo=github" /></a>
+<p align="left">
+<a href="https://github.com/DAKSHRAWAT7775" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/daksh-rawat22" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 </p>
 
 ---
 
-⭐ *“AI won’t replace humans, but humans with AI will replace humans without AI.”* ⭐
+<h3 align="center">💡 Building scalable systems and intelligent solutions for real-world problems.</h3>
